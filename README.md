@@ -15,7 +15,7 @@ you can control the number of moving pendulums through the button in you keyboar
 
 and controlling the speed form "+" and "-" buttons 
 
-![](https://media.giphy.com/media/1zkb0pxDj3ZdN6X3p9/giphy.gif)
+![](https://media.giphy.com/media/5tdoCtia5SOLlJfDn4/giphy.gif)
 
 
 
